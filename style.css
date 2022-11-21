@@ -8,12 +8,10 @@ body {
   text-align: center;
   background-color: #eae2b7;
 }
-nav {
-  style="word-spacing: 10px";
-  text-align=left;
+nav a { 
+  margin-right: 10px;
+}
 
-}  
-  
 
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -25,10 +23,6 @@ h3 {
 
 }
 
-article {
-  text-align: center;
-  padding: 50px 0;
-}
 
 article div {
   text-align: center;
@@ -45,7 +39,7 @@ p {
 div {
   margin: auto;
   width: 600px;
-  text-align: center;
+margin-left: ;
 
   
 
